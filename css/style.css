@@ -1,0 +1,13 @@
+#header{
+    background-color: #4EA0FF;
+    width: 1500px;
+    height: 125px;;
+    background-image: url("../img/pattern.png");
+    margin: auto;
+}
+
+#logo{
+    width: 200px;
+    height: 125px;
+    background-size: cover;
+}
