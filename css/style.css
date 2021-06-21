@@ -7,9 +7,9 @@ header{
 }
 
 main{
-    width: 70%;
+    width: 65%;
     margin: auto;
-    text-align: left;
+    text-align: left;   
 }
 
 h1{
@@ -20,25 +20,45 @@ h1{
 
 h4{
     color: grey;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
     
 }
 
 h5{
     color:grey;
-    margin-top: 5px;
+    margin-top: 3px;
 
+}
+
+p, ul, table{
+    font-weight: 600;
+    
+}
+
+thead{
+    background-color: #20A9E5 ;
+    color: white;
+}
+
+span{
+    background-color: yellow;
 }
 
 .photo-caption{
     margin-top: 1px;
     margin-bottom: 1px;
-    font-weight: bolder;
+    font-weight: bold;
+    font-size: small;
 }
 
 #logo{
     width: 200px;
     background-size: cover;
+}
+
+.blue-rows{
+    background-color: #B1E5F2;
+    
 }
 
